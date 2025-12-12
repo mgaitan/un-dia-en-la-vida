@@ -21,7 +21,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v7
       - run: make docs
-      - run: make docs-epub
+      - name: Build EPUB (no -W)
+        run: uvx --from=sphinx --with myst-parser sphinx-build . _build/epub -b epub
       - uses: actions/upload-pages-artifact@v4
         with:
           path: _build/html
@@ -29,6 +30,6 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: Attach EPUB to release
         if: github.event_name == 'release'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release upload "$GITHUB_REF_NAME" _build/epub/Undaenlavida-Cenital.epub --clobber --repo "$GITHUB_REPOSITORY"
+        uses: softprops/action-gh-release@v2
+        with:
+          files: _build/epub/*.epub
