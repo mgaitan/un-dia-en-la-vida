@@ -20,9 +20,8 @@ Cenital es un medio de comunicación digital lanzado el 7 de junio de 2019 por u
 
 ```{toctree}
 :maxdepth: 2
-:caption: Documentation
+:caption: Todas las entregas del newsletter
 
-AGENTS.md
 entregas/2024-02-01-un-día-en-la-vida.md
 entregas/2024-03-08-esto-es-todo-lo-que-tengo-para-decir-sobre-vietnam.md
 entregas/2024-03-16-los-huevos-del-tero-en-el-artículo-40.md
