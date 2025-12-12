@@ -26,6 +26,7 @@ html_static_path = ["_static"]
 
 # EPUB configuration
 epub_ignore_images = True
+epub_basename = f"undiaenlavida-{release}"
 epub_exclude_files = [
     ".doctrees",
     ".doctrees/*",
