@@ -27,5 +27,8 @@ jobs:
           path: _build/html
       - id: deployment
         uses: actions/deploy-pages@v4
-
-      # TODO attach epub to release
+      - name: Attach EPUB to release
+        if: github.event_name == 'release'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release upload "$GITHUB_REF_NAME" _build/epub/Undaenlavida-Cenital.epub --clobber --repo "$GITHUB_REPOSITORY"
