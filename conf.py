@@ -9,6 +9,8 @@
 project = "Un día en la vida - Cenital"
 copyright = "2024-2025"
 author = "Tomás Aguerre"
+version = "2025.12"
+release = version
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -21,3 +23,20 @@ extensions = [
 ]
 
 html_static_path = ["_static"]
+
+# EPUB configuration
+epub_ignore_images = True
+epub_exclude_files = [
+    ".doctrees",
+    ".doctrees/*",
+    ".doctrees/**",
+    "**/.doctrees/*",
+    "**/.doctrees/**",
+    "_sources/**",
+    "_static/**",
+    "search.html",
+    "searchindex.js",
+    ".buildinfo",
+    ".buildinfo.bak",
+]
+epub_show_urls = "hide"

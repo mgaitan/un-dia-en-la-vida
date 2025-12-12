@@ -1,0 +1,65 @@
+# El referéndum que sacó al Reino Unido de la Unión Europea
+
+*Hace casi una década que Inglaterra aprobó el Brexit por 52% a 48%, en un referéndum histórico.*
+
+**Publicado el 23 de Junio de 2025**
+
+![Portada](https://cenital.com/wp-content/uploads/2025/06/110691660_leavecampaigner.jpg)
+
+El 23 de junio de 2016 un referéndum en Inglaterra aprobó por 52% a 48% la salida del país de la Unión Europea. La papeleta tenía dos opciones a la pregunta sobre si el Reino Unido debía seguir siendo miembro de la UE: abandonar o permanecer.
+
+Era una noche de verano. Las encuestas de las últimas semanas daban como ganador al Brexit. Sin embargo, esa noche había confianza entre quienes militaban la permanencia en la Unión. Los británicos, pensaban, se asustarían a último momento y no decidirían por el salto al vacío. Hacía más de cuarenta años que el país permanecía en la UE. Los inversores habían sido suficientemente claros sobre el costo para la economía del “Abandonar”. El mundo de las apuestas se sumó al optimismo por la permanencia. No muchos lo decían, pero también parecía haber cambiado el clima el asesinato de una diputada laborista. Se llamaba Jo Cox y fue atacada por un hombre que dijo llamarse “Muerte a los traidores y libertad para Gran Bretaña”.
+
+Cerca de las diez de la noche del día del referéndum, la consultora YouGov publicó su primera boca de urna con los colegios electorales ya cerrados. Daban una diferencia de cuatro puntos a favor del “Permanecer”. Pronto llegó el primer resultado oficial. Desde el territorio ultramar de Gibraltar, el 93% de sus habitantes había votado por permanecer. No era representativo de todo Gran Bretaña –apenas unos 20.000 votantes–, pero ayudó a insuflar las expectativas.
+
+La alegría duró poco. Entrada la medianoche, el resultado de Sunderland –una comunidad portuaria del noreste golpeada por el fin de la industria del carbón y la crisis de la industria automovilística– disparó las alarmas. Podía preverse allí un resultado favorable al Brexit, pero no por tanto. El 61% había votado a favor de abandonar la UE. Y el resultado acompañaba lo que estaba sucediendo a nivel nacional. A las cinco menos veinte de la madrugada se comunicó el resultado oficial. David Dimbleby, un conductor del noticiero de la BBC, anunció que “la decisión tomada por este país en 1975 de permanecer en el mercado común europeo ha sido revocada”. Él lo sabía. También había dado la noticia, cuarenta y un años antes, de que el Reino Unido votaba, con el 67%, a favor de permanecer en la UE.
+
+## El hombre blanco
+
+Sorprendidos, medios de comunicación y analistas políticos intentaron dar una explicación sobre qué había pasado en esos cuarenta años. Necesitaban una respuesta rápida y la encontraron. La clase trabajadora de Inglaterra, intuyeron, había votado por el Brexit. El referéndum era la voz de los que no habían tenido voz. El trabajador varón, blanco, desindustrializado, al que no se había escuchado lo suficiente. Los mapas de distribución geográfica del voto así lo demostraban. Había una causalidad y pronto una narrativa que le daba sentido. El voto a favor de “Abandonar” venía de la clase trabajadora y los pobres cuyas demandas habían sido desatendidas por una clase política. Bruselas, los inmigrantes, Europa, alguien les estaba sacando lo que a ellos les faltaba.
+
+Pero al análisis le faltaba algo. Era cierto que bajo la idea del Brexit estaba el lenguaje de quienes no habían sido escuchados. Que muchos de ellos realmente creyeron en una efectiva campaña que puso en los inmigrantes la responsabilidad por los problemas de salud, vivienda y educación. Pero faltaba todavía un elemento que un análisis tan inicial no podía tener: tiempo.
+
+El tiempo lo tuvieron estudios posteriores, como el publicado en el libro Rule Brittania, Brexit and the end of empire , de Sally Tomlinson y Danny Dorling. Es un libro de 2019 que se preguntó por las posibles motivaciones del voto al Brexit.Y encontraron allí algunas variables que comenzaron a cuestionar aquella lectura inicial de una clase trabajadora, pobre, yendo a votar por sus carencias, por no haber sido escuchados.
+
+Había datos que se habían pasado por alto y muchos de ellos contradecían abiertamente esa hipótesis. Las personas más pobres del Reino Unido no habían ido a votar a favor del Brexit. Directamente, no habían ido a votar. Casi una cuarta parte del electorado no votó (por no estar registrado o por decisión de no hacerlo). Eran casi veinte millones de personas. El saldo daba una participación cercana al promedio de las elecciones generales en el Reino Unido. Ese dato, por sí solo, no alcanzaba para explicar el Brexit. Pero había una pregunta para hacerse: quiénes habían ido a votar y quiénes no. En una elección que se definió por 1,3 millones de votos, lo que pensaban esos 33,6 millones de votantes se volvía relevante.
+
+## Quiénes no fueron a votar
+
+Estudios posteriores demostraron que los niveles de participación fueron menores en zonas de apoyo más fuerte a “Permanecer”. Los no votantes eran “proporcionalmente más jóvenes, inquilinos y miembros de minorías étnicas”. Una segunda hipótesis se ponía en cuestión. Se había dicho al inicio que la fuerza que empujó el “Permanecer” había sido principalmente la de los jóvenes. Era cierto, pero en proporción, no en votantes totales. Analizado de esta manera, la mayoría de los jóvenes no había votado ni por “Permanecer” ni por “Abandonar”: no habían votado. Una vez estimado el nivel de participación, quedaba claro que la opción de “Permanecer” había sido sostenida por votantes de entre 35 a 44 años. Otra vez, la narrativa inicial enfrentaba dificultades.
+
+![](https://cenital.com/wp-content/uploads/2025/06/brexit.png)
+
+La distribución geográfica de los votos también podía ponerse en cuestión con esta simple operación. El dato de votos totales reveló que las abstenciones más altas se habían producido en Escocia y Londres, las dos zonas con mayor apoyo a “Permanecer”. Si solo estas dos circunscripciones hubiesen tenido el mismo nivel de participación que el promedio nacional la historia hubiera sido otra. No es la hipótesis del libro que un solo factor –la participación o el que fuera– haya cambiado el curso de los acontecimientos. Los autores son plenamente conscientes de que incluso un resultado en favor de “Permanecer” habría sido temporal y quizás cuestionado.
+
+Pero sí hay un interés del libro por comprender lo que ocurrió y al menos poner en cuestión la narrativa que se construyó después. Si hubo un cambio de época, una rebelión de la clase trabajadora capaz de contagiar a Europa –y tal vez al mundo– entonces era necesario entender cómo y por qué se había producido.
+
+## Brexit y la perspectiva del tiempo
+
+Los análisis rápidos hicieron perder de vista fenómenos que requerían más tiempo y estudio. La necesidad de reducir un fenómeno tan complejo en tan poco tiempo hizo perder de vista algunas variables e incluso interpretar datos al revés de lo que explicaban. Se dijo, por caso, que Gales había votado exageradamente a favor del Brexit. Pero a la vista de los resultados finales, y tomando en cuenta los niveles de participación, Gales votó proporcionalmente casi igual al promedio nacional. El caso de Gales podría resultar anecdótico (aunque no tanto). Había otras variables que directamente iban contra la narrativa del Brexit.
+
+La mayoría de los votos totales –que son los que efectivamente valen y se cuentan en un referéndum– eran de personas de clase media y del sur de Inglaterra. Dos tercios de todos los votantes pertenecían a la clase media. Exactamente lo opuesto a aquella primera lectura sobre el mensaje de los pobres y la clase trabajadora desindustrializada del norte inglés. De los votantes del “Abandono”, demostraron estudios posteriores, el 59% correspondía a la clase media (entendida como A, B o C1) y solo el 41% era de clase trabajadora (C2, D o E). Entre los votantes más pobres, el voto por “Abandonar” fue apenas del 24%.
+
+En julio de 2016, a un mes de la elección, una de las autoras del libro publicó [este paper](https://www.bmj.com/content/354/bmj.i3697) dando cuenta del fenómeno. Danny Dorling hizo frente a un diagnóstico que ya había sido abrazado por casi todo el arco político e intelectual, que puso en la clase trabajadora el peso de la decisión. Había al menos cinco variables que explicaban mucho mejor –en su conjunción– los resultados del referéndum: los niveles de ausentismo en Londres, en Escocia y entre los jóvenes, como ya se ha dicho. Pero, además, la prohibición de participación a votantes de 16 y 17 años (permitidos en otros referéndums como el de Escocia en 2014) o la exclusión de ciudadanos europeos residentes en el Reino Unido.
+
+## Infelices, viejos y gordos
+
+En 2017, cuatro economistas, en base a encuestas sobre el voto anterior, agregaron una nueva conclusión en [un estudio](https://www.iza.org/publications/dp/11059/was-brexit-caused-by-the-unhappy-and-the-old) titulado: “ ¿Fue el Brexit el resultado de los infelices y los viejos? ”. Encontraron que el descontento con el nivel de vida sí había influido en el voto. Pero la causalidad no era tan sencilla. Porque el nivel de vida de las personas no había funcionado como buen predictor para comprender el voto (tal como [demostró Alasdair Rae](https://www.statsmapsnpix.com/2021/05/far-too-many-words-about-chart.html) , que encontró poca evidencia de que a más empobrecida la zona más probable era el voto por el Brexit).
+
+El canal de transmisión, descubrieron los economistas, no era la insatisfacción general con la vida sino “los sentimientos íntimos de una persona sobre su situación financiera”. Es decir, el subconjunto de votantes que afirmaba que le costaba llegar a fin de mes era más propenso a votar por el Brexit. Eran los “sentimientos sobre los ingresos” los que predecían mejor el voto que los ingresos efectivos. “No fueron los votantes pobres –escribieron– sino aquellos con ingresos promedio que se sentían pobres los que más influyeron”.
+
+A medida que pasaba el tiempo y aparecían más datos, el análisis se volvía más y más complejo. A veces hasta el extremo. Peter Ormosi publicó [un trabajo](https://blogs.lse.ac.uk/brexit/2016/06/30/the-weight-of-brexit-leave-vote-is-higher-in-areas-of-higher-obesity/) en el que encontraba una correlación entre el voto a favor del Brexit y el peso. El voto por “Abandonar” era más alto en zonas de mayor obesidad. La hipótesis llegó a los medios de comunicación como parte de una serie de ataques a las características personales de los votantes del Brexit.
+
+Nadie se preguntó cuál era la causalidad de esa correlación, una regla básica que supone que porque dos cosas sucedan a la vez, o tengan una relación estadística, no implica que una cause a la otra. Del hecho de que en una zona con mayor obesidad se vote más por el Brexit no se puede inferir que la obesidad determine la postura de un votante sobre la cuestión. Generalmente hay una tercera variable que explica esa relación. En este caso, por ejemplo, otros estudios mostraron evidencia de que cuanto menos inmigrantes había en una zona, más personas votaban a favor del Brexit. ¿Parte de esa correlación, entonces, podría deberse a que los inmigrantes tienden a ser más delgados que la población nativa?
+
+Y así, al infinito.
+
+La cuestión no es meramente técnica o de capacidades de procesamiento de datos. Esa no es la tesis central del libro, que en verdad viene a proponer una hipótesis alternativa sobre los motivos del voto a favor del Brexit. Sostienen allí los investigadores que el voto por “Abandonar” se explica mucho mejor por la visión que muchos británicos tienen sobre la historia de su país, “arraigada en una concepción distorsionada y peligrosa del Imperio Británico y su lugar en el mundo”.
+
+A ese factor deben sumarse otros, como la xenofobia preexistente y la movilizada durante la campaña por medios de comunicación y dirigentes políticos, sentimientos de descontento económico y social y una campaña en favor del Brexit bien financiada y dirigida. Esa es otra historia, vale la pena leerla y la encuentran en el libro (y también hay una lectura más placentera, porque es una ficción, en El corazón de Inglaterra , de Jonathan Coe, que si bien no es un libro de análisis político un poco lo es).
+
+Pero el planteo subyacente a la idea de los autores –que incluso puede estar equivocada– es aún más interesante que su contenido. Se trata de un planteo metodológico (y político) contra la necesidad de tener rápida y taxativamente la respuesta sobre el significado de una elección. El famoso “mensaje de las urnas” no existe previa ni posteriormente. Es una construcción humana y –como todas, nos ha enseñado el constructivismo– parte del saldo de una lucha de discursos por imponerse.
+
+<hr />
+
+[URL original](https://cenital.com/el-referendum-que-saco-al-reino-unido-de-la-union-europea/)

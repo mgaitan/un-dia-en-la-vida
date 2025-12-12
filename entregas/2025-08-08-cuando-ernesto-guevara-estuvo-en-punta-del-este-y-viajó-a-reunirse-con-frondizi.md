@@ -1,0 +1,59 @@
+# Cuando Ernesto Guevara estuvo en Punta del Este y viajó a reunirse con Frondizi
+
+*En agosto de 1961 se enfrentan en Uruguay dos recientes enemigos: Cuba y Estados Unidos.*
+
+**Publicado el 8 de Agosto de 2025**
+
+![Portada](https://cenital.com/wp-content/uploads/2025/08/Cocoliche_Ernesto-Che-Guevara.jpg)
+
+El 8 de agosto de 1961, el ministro de Industrias de Cuba, Ernesto “Che” Guevara, pronunció un discurso ante el Consejo Interamericano Económico y Social (CIES) de la Organización de los Estados Americanos (OEA) en Punta del Este, Uruguay.
+
+Apenas unos meses antes, en abril, un intento de invasión a Cuba quiso derrocar al gobierno de Fidel Castro a través de una operación dirigida por la Central de Inteligencia Americana (CIA). No sólo no lo consiguió sino que hizo del episodio, Bahía de Cochinos, una pieza central de la mitología revolucionaria.
+
+Los ojos del continente estaban puestos en el lugar en el que se encontrarían dos recientes rivales: Estados Unidos y Cuba. Mucho más atractivo iba a ser el encuentro cuando se confirmó que el representante de la delegación cubana en Uruguay iba a ser nada menos que el Che Guevara.
+
+Si Estados Unidos había intentado aplacar la revolución por la vía de la fuerza, también estaba decidido a intentar frenar su expansión hacia el resto de América Latina. En marzo, en una recepción a diplomáticos latinoamericanos y congresistas, el presidente John F. Kennedy expresó la otra parte de su plan para la región: “Hemos hecho un llamamiento a todos los pueblos del hemisferio para unirse a una Alianza para el Progreso, en un vasto esfuerzo de cooperación, sin paralelo en magnitud y en nobleza de sus objetivos, con el fin de satisfacer las necesidades fundamentales de techo, trabajo y tierra, salud y escuela”. Al día siguiente pidió al Congreso aumentar en 600 millones de dólares el Fondo Interamericano para el Progreso Social, que administraba el BID, un compromiso que Estados Unidos había tomado durante la administración Eisenhower, en la reunión de Bogotá. Con esas dos medidas en marcha, convocó al CIES para agosto.
+
+![el che en uruguay](https://cenital.com/wp-content/uploads/2025/08/el-che-en-montevideo.png)
+
+Allí habría que decidir cómo, cuándo, a quiénes y para qué se destinarían esos recursos. Y todas esas preguntas estaban lejos de tener una respuesta técnica. Al menos así [lo expresó](https://www.marxists.org/espanol/guevara/08-08-1961.htm) uno de los protagonistas. Se esperaba un discurso incendiario de Guevara, una denuncia de la invasión de Playa Girón — Bahía de Cochinos. La hubo, claro. Pero hubo también un debate sobre el carácter de la reunión: si era una reunión técnica o política. “Cuba –dijo entonces Guevara– interpreta que es una reunión política y no técnica. Lo es porque el país no admite que se separe la economía de la política”. Pero no es el único que lo dice. En el mensaje inaugural que envía Kennedy dice que la reunión “es algo más que (…) una conferencia técnica sobre el desarrollo”. Por esa razón, y algunas más, el ministro Guevara considera que no puede llegar “a esta asamblea de ilustres técnicos a hablar de cosas técnicas. Yo se que ustedes piensan que además porque no sabemos, y quizás tengan razón. Pero lo fundamental es que la política y los hechos, tan tozudos que constantemente están presentes en nuestra situación, nos impiden venir a hablar de números o analizar las perfecciones de los técnicos del CIES”.
+
+Así se refirió al primer punto elaborado por los técnicos. Allí se decía, vamos a parafrasear, algo así: que generalmente se dice que un aumento de la actividad económica resulta en la mejoría de las condiciones sanitarias. Pero que el CIES pensaba lo contrario, más progresista. Que el mejoramiento de las condiciones sanitarias es un requisito esencial, previo al crecimiento económico, y por lo tanto esencial para cualquier programa de desarrollo de la región.
+
+Dice Guevara. No el pelo de Cuba, agrega, porque Cuba estará fuera de la Alianza para el Progreso. Pero sí al resto de los delegados. Me da la impresión, agrega, que se está pensando en hacer la letrina como cosa fundamental. “Vamos a hacerle la letrina –imita a los técnicos– y después de que su educación le haya permitido mantenerla limpia, entonces podrá gozar de los beneficios de la producción”. Quiere hacer notar que el tema de la industrialización no figura en el análisis técnicos. “Para los señores técnicos, planificar es planificar la letrina. Lo demás, ¡quién sabe cómo se hará!”. Esos dólares deben venir –y Cuba está dispuesto a aceptarlos, sugiere– para equipos, para maquinarias, para que los países subdesarrollados de la región puedan convertirse en países industriales, agrícolas, de una sola vez.
+
+Y es allí, dice entonces el ministro de Industrias, donde el debate entre “los técnicos” y “los políticos” se vuelve un punto interesante. El acuerdo económico inicial que plantea la Alianza Para el Progreso tiene una serie de condiciones. Guevara las llama “el filtro purificador” y funcionan a través de “políticos disfrazados de técnicos diciendo aquí sí y aquí no: porque tú has hecho tal cosa”. Ese es uno de los peligros, convertirse en instrumento de quién da los medios. Seguido por el segundo peligro de que los países pequeños reciban poco o nada. Pero hay, agrega, un lugar en el que los pequeños tienen derecho al pataleo y es aquí: donde cada voto es un voto. Cuentan con el voto militante de Cuba, agrega, para votar en contra de la medida de los siete filtros, “destinada a canalizar el crédito, con disfraces técnicos, por caminos diferentes”.
+
+Finalmente, el fantasma cubano cumplirá su misión. Todos sabemos, dice, el íntimo sentir del Departamento de Estado norteamericano: “Hay que hacer que Latinoamérica crezca porque si no viene un fenómeno llamado castrismo”. Cuba no pondrá obstáculos, dice, si la Alianza para el Progreso se hace para que crezcan de verdad las economías, para que consuman sus productos, para asegurar la paz social, para crecer nosotros y no los de afuera. Lo que no podrá hacer Cuba, finaliza, es dejar de exportar su ejemplo, “como quieren los Estados Unidos, porque el ejemplo es algo espiritual que traspasa las fronteras”. Se compromete a “no mover un fusil de Cuba” pero no puede garantizar que la idea de Cuba deje de implantarse en algún otro país de América si no se toman las medidas urgentes de prevención social. El efecto del flanco radical funcionó.
+
+Pero Cuba no se retiró de la reunión. Participó de los días siguientes, colaboró en las sesiones y presentó propuestas hasta la resolución final. Por un momento se especuló con la posibilidad de que incluso firmara el acuerdo, aunque eso no sucedió. El 17 de agosto todos los países, con excepción de Cuba, firmaron la Carta de Punta del Este.
+
+Pero más importante que lo que pasaba en la superficie eran las tratativas subterráneas. Ese mismo día, a la noche, Guevara se encontraría con el consejero personal que Kennedy había enviado a Punta del Este, Richard Goodwin. El encuentro fue el resultado del esfuerzo de la delegación argentina y brasileña, enviados por los presidentes Arturo Frondizi y Jânio da Silva Quadros, a intentar buscar una tregua entre los países. La excusa fue el cumpleaños de un diplomático brasileño a la que fueron convocados Goodwin y Guevara. De acuerdo al informe que Goodwin le hizo a Kennedy, el Che Guevara llegó cerca de las 2 de la mañana y le dijo a los representantes de las delegaciones argentinas y brasileñas (Horacio Rodríguez Larreta y Edmundo Barbosa da Silva, respectivamente) que quería hablar con él. Los cuatro entraron a una habitación durante un rato. El intercambio no fue muy positivo. “Una reunión entre dos enemigos”, le informó luego el Che a Fidel Castro.
+
+El Che debió haberse retirado no muy tarde porque tenía otro asunto que atender. A las 6 de la mañana partiría en un vuelo secreto rumbo a su país de origen, Argentina. Jorge Carretoni cuenta, en una biografía del Che que escribió Pacho O´Donnell, que Frondizi lo convocó un día para que viajara al encuentro del CIES. Iría como asesor del Consejo Federal de Inversiones (CFI), aunque su misión iba a ser otra. Debía contactar a Guevara sin pasar por ningún canal diplomático argentino y convencerlo de que viniera a la Argentina a encontrarse con Frondizi. Lo consiguió.
+
+Frondizi tenía la intención de mejorar su relación con Estados Unidos y ganar algo de aire interno. Quería llevarle a Kennedy el compromiso de que Cuba no ingresaría al Pacto de Varsovia. Tal vez, especula Carrettoni, Frondizi tenía en su mano la capacidad de ofrecer algo de ayuda norteamericana, con apoyo de Argentina y Brasil.
+
+La única condición de toda la operación era el secreto. Por eso, en el transcurso de la conferencia, Carrettoni viajaba ida y vuelta por el Río de la Plata para transmitir las novedades. Las comunicaciones telefónicas del presidente Frondizi estaban intervenidas por las Fuerzas Armadas y sus servicios de espionaje. Guevara accede, previa consulta a Fidel Castro, a viajar.
+
+El 18 de agosto a las 6 de la mañana, Guevara y Carrettoni llegan hasta la escalerilla del avión que iba a trasladar al primero hacia Argentina.
+
+Este le explica que sus órdenes eran acompañarlo hasta el avión y que sería recibido en Argentina.
+
+Respondió cortante Ernesto Guevara, que se dio vuelta y comenzó a alejarse del avión, temiendo una posible operación de inteligencia para asesinarlo. No era nada extravagante la idea. A la misteriosa muerte de Camilo Cienfuegos en un viaje en avión, y los múltiples intentos fallidos de asesinar a Fidel Castro, se sumaba un episodio reciente. El día anterior, a la salida de una charla que Ernesto Guevara dio en la Universidad de Montevideo para estudiantes, una rafaga de siete disparos apuntó contra la muchedumbre que acompañaba al dirigente, hiriendo a un profesor de la universidad, Arbelio Ramírez, que murió en el acto.
+
+U na pequeña digresión. En ese discurso en la universidad, Guevara sorprende a su auditorio con [una defensa de la vía democrática uruguaya](https://www.icndiario.com/2017/10/el-dia-que-el-che-guevara-desconcerto-a-parte-de-la-izquierda-uruguaya/#google_vignette) . Dice allí:
+
+Cuando Guevara le dijo que no se subiría al avión, Carrettoni sintió que la operación se derrumbaba. Entonces decidió desobedecer la orden que tenía y se subió al avión. Aterrizaron en el aeropuerto de Don Torcuato. El jefe de la custodia presidencial se acercó a recibirlos sin saber a quién iba a transportar hasta que lo vio bajando por la escalera. “Nunca olvidaré –cuenta Carrettoni– que al capitán de fragata, de la sorpresa, se le cayeron los blancos e inmaculados guantes sobre la pista”.
+
+A las nueve de la mañana llegaron a Olivos, donde los esperaba Frondizi. El presidente y el ministro cubano se encerraron en un cuarto durante tres horas. Frondizi dio la orden de que la custodia lo espere en el salón contiguo, solamente para evitar que dieran aviso a sus respectivos jefes de las Fuerzas Armadas. De la reunión y el encuentro se escribió mucho. No sirvió para calmar la tensión entre Estados Unidos y Cuba. Tampoco lo hizo el viaje de Guevara, luego, al Brasil de Quadros. Este último renunció, extrañamente, dos semanas después de aquel encuentro.
+
+Aquella tarde, luego de salir de la quinta de Olivos y visitar a una tía, Ernesto Guevara volvió al aeropuerto y dejó su país de origen para siempre. Carrettoni había cumplido la tarea encomendada por Frondizi. Antes de despedirlo, le preguntó:
+
+El presidente lo tomó del brazo y, en voz baja, le dijo:
+
+Frondizi fue derrocado por las Fuerzas Armadas tiempo después, en marzo de 1962. El hecho de haber recibido “al jerarca comunista Comandante Guevara” fue uno de los argumentos que el golpe escribió en el comunicado.
+
+<hr />
+
+[URL original](https://cenital.com/cuando-ernesto-guevara-estuvo-en-punta-del-este-y-viajo-a-reunirse-con-frondizi/)

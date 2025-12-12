@@ -1,0 +1,49 @@
+# Cuatro personas deciden el siglo XX argentino
+
+*Una acordada de la Corte Suprema de la Nación convalida la vigencia de la Constitución durante el golpe de Estado de 1930.*
+
+**Publicado el 10 de Septiembre de 2024**
+
+![Portada](https://cenital.com/wp-content/uploads/2024/09/cortedel30.jpg)
+
+El 10 de septiembre de 1930 la Corte Suprema de Justicia de la Nación argentina publicó la [Acordada sobre reconocimiento del Gobierno Provisional de la Nación.](http://www.saij.gob.ar/corte-suprema-justicia-nacion-federal-ciudad-autonoma-buenos-aires-acordada-sobre-reconocimiento-gobierno-provincial-nacion-fa30996876-1930-09-10/123456789-678-6990-3ots-eupmocsollaf)
+
+La presión militar sobre el Gobierno de Hipólito Yrigoyen se había incrementado los primeros días de septiembre. La intervención militar se anunciaba abiertamente en los diarios. Unos días antes del golpe, Yrigoyen debió apercibir a los militares José Félix Uriburu (retirado) y Agustín Pedro Justo. Pero nada logró calmar la escalada contra el Gobierno y el presidente, alegando razones de salud, delegó el mando en su vicepresidente, Enrique Martínez.
+
+Lo primero que hizo Martínez fue decretar el estado de sitio. El 6 de septiembre el país amaneció con esa novedad, que fue la última del Gobierno radical. Esa misma mañana, Uriburu inició su marcha hacia la Casa Rosada acompañado por un grupo no muy numeroso de civiles y militares. Allí le exigieron la renuncia al vicepresidente que, luego de intentar resistir, cedió. Yrigoyen hizo lo propio desde La Plata. Las jefaturas militares reconocieron a Uriburu y el Gobierno radical quedó derrocado.
+
+El régimen sostuvo el estado de sitio, disolvió el Congreso e intervino las provincias. Sin embargo, el Poder Judicial se mantuvo en funcionamiento. El flamante gobierno de facto buscaba darse una pátina de institucionalidad. La Corte Suprema gozaba de un prestigio propio y el Poder Ejecutivo, en manos de Uriburu, tomó la decisión de comunicarle la situación institucional.
+
+Fue a través de una carta. Como había terminado el período de acuerdos judiciales, Uriburu envió una carta al domicilio particular del presidente de la Corte, José Figueroa Alcorta. El magistrado había sido nombrado en la Corte por Victorino de la Plaza en 1915 y designado presidente del tribunal –en ese entonces era así– por el Gobierno de Yrigoyen.
+
+Estamos entonces en el barrio de Belgrano, en la casa del presidente de la Corte, el 9 de septiembre de 1930. Los hechos pueden no haber sucedido exactamente de esta manera pero ayudan al relato. Tal vez entre el 6 y el 9 de septiembre se produjeron conversaciones entre el Gobierno y la Corte. Pero aquí necesitamos que hayan sucedido de esta manera.
+
+Es el 9 de septiembre cuando la carta llega al domicilio de Figueroa Alcorta. Los integrantes de la Corte Suprema son, en ese momento, cuatro. Había una plaza vacante por la muerte de quien había sido presidente del tribunal hasta octubre de 1929, Antonio Bermejo. Además de Figueroa Alcorta, la Corte estaba compuesta por Roberto Repetto, Ricardo Guido Lavalle y Antonio Sagarna. Tenemos que sumar en la escena al procurador general, que también firmará la acordada, Horacio Rodríguez Larreta. Ellos cinco, reunidos en el salón comedor del domicilio del presidente de la Corte, decidirán el destino del siglo XX argentino. Acaso sin saberlo.
+
+Tal vez en ese comedor haya diferentes posturas pero, como en toda discusión, se resumen en dos y las encarnan personas. Las conocemos [por este genial trabajo](http://www.derecho.uba.ar/investigacion/Cuadernos_de_Investigaciones1.pdf) de Susana Cayuso y María Angélica Gelli. Figueroa Alcorta entiende que no puede convalidarse de ninguna manera el quiebre del orden institucional. Propone que el tribunal, en su conjunto, presente la renuncia. Repetto, que había llegado a la Corte por el presidente radical Marcelo T. de Alvear en 1923, sostiene que el tribunal debe cumplir el rol de fijar un límite jurídico al Poder Ejecutivo provisional, subordinando a las autoridades de hecho al imperio de la ley. De la misma ley que acababan de quebrantar, podría haber acotado un tercero. No lo sabemos. Sí sabemos que el tono de la polémica fue elevado. Que Sagarna y Lavalle compartían la postura de Repetto pero también comprendían la opinión de Figueroa Alcorta. Repetto corría con una ventaja: había llegado al lugar de debate con un borrador redactado. Cualquiera que haya ido a una asamblea de cualquier tipo sabe que esto es muy importante.
+
+Y así fue que, tras unas horas de discusión, triunfó la postura de Repetto. Por pedido expreso de Figueroa Alcorta se incluyó, hacia el final del texto, un párrafo en defensa de los derechos individuales, que debían ser respetados como en un gobierno constitucional.
+
+El texto de la acordada, firmada por los cuatro cortesanos, el procurador y el secretario, hacía algunas consideraciones. Decía que había recibido la comunicación de la formación de un Gobierno provisional “emanado de la revolución triunfante”. Que ese Gobierno se encontraba en posesión de las fuerzas militares y policiales y que declaró en actos públicos que mantendría la supremacía de la Constitución y de las leyes. Agregaba que la Corte ya había declarado, respecto a los funcionarios de hecho, la doctrina de no discutir la legalidad de las designaciones de funcionarios (citando a Albert Constantineau y a fallos propios). Que entonces el Gobierno provisional es “un Gobierno de facto cuyo título no puede ser judicialmente discutido con éxito”. Concluía con lo solicitado por Figueroa Alcorta: que, no obstante, el Poder Judicial podría restablecer cualquier garantía individual o de propiedad que fuera violada en el ejercicio del gobierno. Y repetía: que esa última conclusión se halla confirmada por las declaraciones del propio Gobierno sobre el respeto a la Constitución y las leyes. Entonces:
+
+La novedad no apareció en los diarios al día siguiente. Unos días después, el propio Uriburu dijo que “la Corte se ha apresurado a reconocer el Gobierno provisional, ya tenemos pues un poderoso blasón, una carta de crédito en su palabra, que le han sido acordadas por el celoso guardador del tesoro legal de la República”.
+
+De esas palabras se desprende una de las posibles motivaciones para firmar la acordada. El proyecto de Uriburu –a diferencia del que promovía Justo– no era un Gobierno de transición sino de refundación. Como tal, exigía una serie de instituciones (no todas, algunas) que garantizaran el reconocimiento internacional. Para un país, y un mundo, que venía de la crisis del ´29, la garantía de los intereses económicos externos e internos no era un detalle menor.
+
+No era la única preocupación. Los ministros evaluaban la necesidad de limitar jurídicamente al nuevo régimen, dándole continuidad al orden institucional frente a un hecho revolucionario, valga la paradoja. Pero, a veces, con las intenciones no alcanza. Y los hechos tuvieron consecuencias –más que jurídicas, políticas– a lo largo de todo el siglo XX.
+
+La acordada consolidó la doctrina de facto y creó la certeza de que en la Argentina resultaba posible quebrar el orden constitucional para mantener la vigencia de la Constitución. El abogado Daniel Antokoletz, [analizando el texto](http://www.saij.gob.ar/hernan-prat-derecho-como-tecnica-hacer-creer-acordada-ano-1930-dacf150297-2015-04-20/123456789-0abc-defg7920-51fcanirtcod) de la acordada, sostuvo que la actuación de la Corte sentó una tesis favorable a toda revolución triunfante: “Es una aplicación práctica de la teoría de los hechos consumados, según la cual toda revolución es legítima si triunfa e ilegítima si fracasa”. De esa manera, dice Antokoletz, a partir de ese día se puede definir a la Constitución Nacional como “un conjunto de normas jurídicas que rigen mientras no sobrevenga una revolución”. Daniel Antokoletz [fue secuestrado y torturado](http://www.museositioesma.gob.ar/cronica/cronica-daniel-antokoletz/) por la última dictadura militar que tuvo la Argentina. Continúa desaparecido hasta el día de hoy.
+
+Las consecuencias de la acordada se vieron en lo inmediato. Yrigoyen había sido detenido tras el golpe y presentó una acción de habeas corpus que fue rechazada por la propia Corte. Entre los fundamentos citó su propia acordada. La detención se había producido en el marco del estado de sitio, dictado por un Gobierno de facto cuyo título no podía ser judicialmente discutido.
+
+Más allá de aplicaciones a casos específicos, la doctrina se consolidó como un principio de la teoría constitucional argentina. Luego del golpe de 1943, que derrocó al presidente Pedro Castillo, la Corte volvió a suscribir una acordada expresando que “se ha producido una situación análoga a la contemplada por esta Corte Suprema en su acordada del 10 de septiembre de 1930”. Los golpes subsiguientes –en 1955, en 1966 y en 1976– directamente disolvieron la Corte Suprema de Justicia luego de asumir.
+
+En 1994 se produjo la última reforma constitucional en nuestro país. El primer artículo que se trató, y que se incorporó al texto de la Constitución, fue el siguiente:
+
+El miembro informante de este artículo de la reforma fue Antonio Cafiero. “Si este artículo –dijo en su discurso– hubiese estado en la Constitución actual no hubiera podido dictarse la acordada de la Corte Suprema de 1930, que aceptó de hecho la afirmación de un régimen de facto en la Argentina”. El artículo fue aprobado por unanimidad en la Convención Constituyente.
+
+Así se dio institucionalmente un final –provisorio, como todo final– al proceso que se abrió esa tarde noche del 9 de septiembre de 1930. Cuando, en el domicilio del presidente de la Corte Suprema de Justicia, la historia de un país durante un siglo dependió de la decisión de apenas cuatro personas.
+
+<hr />
+
+[URL original](https://cenital.com/cuatro-personas-deciden-el-siglo-xx-argentino/)

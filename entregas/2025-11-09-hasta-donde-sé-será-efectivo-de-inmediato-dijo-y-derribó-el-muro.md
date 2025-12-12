@@ -1,0 +1,67 @@
+# «Hasta donde sé será efectivo de inmediato», dijo, y derribó el Muro
+
+*Günter Schabowski, sin saber lo que iba a transmitir en una conferencia de prensa en la RDA, cambió la historia.*
+
+**Publicado el 9 de Noviembre de 2025**
+
+![Portada](https://cenital.com/wp-content/uploads/2025/11/caida-del-muro-scaled.jpg)
+
+El 9 de noviembre de 1989, en una conferencia de prensa, Günter Schabowski derribó el Muro de Berlín. No era su trabajo. Casi podría decirse que su trabajo era el contrario. Pero una cadena de errores que lo involucran terminó en un episodio que pondría fin a algo más que un muro divisor de la capital alemana.
+
+Es un día jueves y Berlín permanece dividida en dos, como lo ha estado los 28 años anteriores, desde que la República Democrática de Alemania (RDA) comenzó la construcción del Muro de Berlín. Pero el contexto ahora es otro. A fines de octubre renunció Erich Honecker y el nuevo gobierno quedó en manos de Egon Krenz, que comenzó un proceso de sustitución de los viejos dirigentes comunistas y una tímida apertura.
+
+Pero su primer intento de liberar las fronteras cayó mal: una manifestación reunió a casi un millón de personas en su contra. Los pedidos de permisos de salida se acumulaban en las oficinas estatales mientras cerca de veinte mil alemanes orientales, por día, se dirigían a Checoslovaquia, que había abierto su frontera. Era el segundo agujero por el que salir, luego de la apertura húngara hacia Austria.
+
+Vamos, de la mano de Jean-Marc Gonin y Olivier Guez en el libro La caída del Muro de Berlín , a la última semana de la historia alemana con Berlín dividida. Egon Krenz se despierta sabiendo que debe flexibilizar aún más la frontera. La medida anterior había encendido una chispa. El límite de 30 días a los viajes, la visa obligatoria para salir y un límite anual de cambio de 15 marcos habían provocado una enorme movilización. Sin dinero en el bolsillo — gritaban los manifestantes — no había forma de viajar. Krenz sabía que tenía que actuar y que debía hacerlo pronto.
+
+Ya es martes y llega temprano al Politburó. Sus miembros están sentados, ansiosos por discutir a los reemplazantes de la línea de Honecker en el siguiente Comité Central. Pero Krenz tenía otra urgencia. Había que redactar un nuevo texto que permitiera, de alguna forma, viajar al extranjero. Necesita que sea rápido. No puede ser un proyecto de ley, que demoraría demasiado, sino un decreto.
+
+El asunto a frenar es la salida de ciudadanos alemanes por Checoslovaquia. Las posturas en el Politburó están divididas entre quienes exigen un cierre más duro de la frontera y los reformadores, que quieren liberalizar las salidas. La prioridad de Krenz es otra: que lo que vaya a suceder suceda rápido. Lo va a conseguir. Pero el acuerdo entre las posturas contrapuestas es imposible y termina en un texto ambiguo que le pide al ministro del Interior, de Asuntos Exteriores y al jefe de la Stasi, la policía secreta, una propuesta para sustituir la parte de la ley sobre viajes — que afecta a la emigración definitiva — por un decreto que entrará en vigor de inmediato. Es este el primer texto que nombra a uno de los protagonistas de esta historia: Günter Schabowski, de quien se espera que intervenga en los medios de comunicación oficiales para incitar a los ciudadanos de la RDA a que no abandonen el país.
+
+Ahora es el jueves 9 de noviembre de 1989. Son las nueve de la mañana y nadie, en todo el planeta, sabe que ese día caerá el Muro de Berlín. No lo saben las cuatro personas que están reunidas en el despacho 509 del Ministerio del Interior trabajando en el texto que se les ha encargado a sus respectivos ministros. De un lado de la mesa hay un general y un coronel de policía. Dirigen los departamentos encargados de los pasaportes y del control de los residentes. Del otro lado hay dos coroneles de la Stasi. Tienen una consigna: redactar un texto que permita a las personas emigrar libremente de la RDA.
+
+Es el primero que se anima a decir que el objetivo de la reunión es absurdo. Que el mandato del Politburó se centraba casi exclusivamente en aquellos que quisieran emigrar definitivamente, forzados por la crisis de refugiados vía Checoslovaquia, y se olvidaba que lo que la mayoría de los alemanes del Este realmente querían era poder viajar y volver. “Vamos a discriminar a los camaradas que simplemente quieran ir a visitar a una tía anciana a Hamburgo y que después regresan a casa en beneficio de los que pretenden marcharse para siempre”, dice. El resto de los presentes acuerda.
+
+Es un riesgo político promulgar un decreto que solo atañe a los emigrados definitivos y se olvida del resto de la población. Entonces, en el despacho 509, toman una decisión que va a cambiar, o al menos acelerar, uno de los rumbos que tomó la historia. Deciden extralimitarse en la tarea que les dieron. Y redactan un texto que flexibiliza las condiciones de salida definitiva pero también las estancias temporales en el extranjero: “Las peticiones de viajes privados al extranjero pueden solicitarse sin previo aviso. Las autorizaciones serán emitidas en breve. Las denegadas serán inapelables, salvo en casos excepcionales”.
+
+Aunque le dejan el título original impuesto por sus superiores (“Propuesta de decisión para modificar las condiciones de la salida definitiva de ciudadanos de la RDA hacia la RFA, a través de Checoslovaquia”), los cuatro funcionarios del despacho 508 saben lo que significa lo que han escrito. Tanto que recomiendan, con insistencia, que la agencia oficial de prensa no difunda la información hasta el día siguiente, el viernes 10 de noviembre, para poder dar aviso a los servicios de seguridad correspondientes.
+
+El documento viaja en auto oficial hacia el edificio del Comité Central, donde la sesión plenaria presidida por Krenz ha comenzado. Cerca del mediodía hay una pausa para almorzar. Ya han sido nombrados nuevos miembros del Politburó pero no todos. Krenz llama a algunos de ellos, los que son portavoces ante la prensa, y los lleva a otra sala. Falta uno: es Günter Schabowski, que se ha quedado en otro lugar dando entrevistas y hablando con periodistas.
+
+Krenz hace un repaso breve de la situación: los checoslovacos se quejan de los refugiados y hay que encontrar una solución. Entonces lee el texto que ha recibido. Días antes, dicen Gonin y Guez, el texto habría provocado un clamor de protesta. Pero el ala dura que acompañaba a Honecker acaba de abandonar las altas instancias del Partido. El texto sigue su camino. Es aprobado, con cambios mínimos, y ya no queda más que transmitir el documento a los ministros para su conocimiento. Antes pasa por los servicios centrales del consejo de ministros, que le agregan una breve advertencia: “Se ruega que examinen el proyecto de decisión adjunto sobre una reglamentación temporal de viajes y salidas definitivas de la RDA antes de esta tarde a las seis”.
+
+El ministro del Interior, el coronel Gerhard Lauter, toma el texto y comienza a trabajar en su aplicación efectiva. Escribe un télex que enviará a todas las comisarías y distritos estableciendo el procedimiento administrativo para emitir los visados. Y otro mensaje destinado a los puestos fronterizos. Queda todo preparado para las seis de la tarde, cuando el Consejo de Ministros y el Politburó simplemente deben dar luz verde para que la orden se transmita. Lauter da su tarea por cumplida. Deja el ministerio para reunirse con su esposa, en el teatro, a eso de las siete de la tarde.
+
+Mientras tanto, el Comité Central retoma su reunión. Cerca de las cuatro de la tarde, Krenz lee el texto ante el pleno. Un comunicado de prensa, agrega, se hará público al día siguiente. Mientras debaten el contenido del texto, alguien sugiere que el anuncio no debe salir del Ministerio del Interior, sino del propio gobierno.
+
+Dice alguien del ministerio del Interior. Y con esa frase derrumba el muro de Berlín. Krenz acuerda. Antes de que la sesión plenaria termine, a eso de las cinco de la tarde, Günter Schabowski se acerca a Krenz para despedirse. Debe abandonar el edificio para dirigirse al Centro de Prensa Internacional (IPZ), donde está prevista una conferencia con corresponsales extranjeros para las seis de la tarde. Krenz y Schabowski mantienen un breve encuentro fuera de la sesión. Este último no ha escuchado una sola palabra de todos los debates y pide que le resuman lo más importante del día. Cuando termina de escuchar, descubre que ni siquiera tiene el papel con el texto aprobado. Krenz le da el suyo propio.
+
+Schabowski toma el texto y, sin leerlo , lo guarda en una carpeta. Se dirige al IPZ. Allí lo esperan periodistas de todo el mundo para una situación inédita apenas una semana atrás en Alemania oriental: una conferencia de prensa abierta a los medios occidentales. La primera fue el día anterior. La televisión de Alemania oriental las emite en vivo y cualquier periodista acreditado puede preguntar.
+
+Los corresponsales están exultantes. En la conferencia anterior se llevaron mucha información sobre los cambios en el Politburó, la limpieza sobre los aliados de Honecker. Por eso, cuando Schabowski comienza a emitir un lento y rutinario informe sobre los debates del día en el Comité Central, se desilusionan. Algunos directamente dejan de anotar. Ha sido una trampa.
+
+Ya han pasado cincuenta minutos de la conferencia de prensa y la mayoría de los corresponsales empieza a mirar la puerta. Un periodista de la agencia italiana ANSA interrumpe el monólogo de Schabowski — que apenas ha compartido la palabra con el profesor Manfred Banaschak, sentado a su lado — para hacer una pregunta.
+
+La pregunta es tan pertinente como imposible de contestar. Schabowski podría decir lo que verdaderamente cree: que, efectivamente, ha sido un tremendo error. Que Krenz se equivocó con el anuncio. Pero sabe que no puede decirlo si quiere permanecer en el cargo. Pero tan seguro está de lo que no puede decir como poco seguro de lo que sí debe decir. Entonces duda mientras busca una salida a una pregunta difícil de responder. Asegura que no fue un error. Elogia el tímido intento de liberalización. Pero mira a las cámaras y sabe que cada cosa que diga está siendo escuchada en toda Alemania oriental. Y en el mundo.
+
+Entonces recuerda que ha traído una carpeta con el texto que Krenz le entregó en el Comité. Mira a sus camaradas buscando aprobación y lo saca para hacer el anuncio. Por recomendación del Politburó, comienza Schabowski, entra en vigor un extracto del proyecto de ley referido a la salida permanente del territorio, puesto que es inaceptable que se lleve a cabo a través de un país amigo. Por eso hemos resuelto hoy adoptar una reglamentación que permita a cualquier ciudadano de la RDA salir del país por sus puestos fronterizos.
+
+Se hace un silencio. Los que habían dejado de anotar ahora anotan. Los que buscaban la puerta para irse antes, la olvidan. Casi todos levantan sus manos y hacen la misma pregunta a la vez: ¿cuándo entra en vigencia? Günter Schabowski no lo sabe. No ha leído más que lo que acaba de leer. Se pone los lentes, busca entre el texto que está leyendo y no encuentra más remedio que hacer una locura. Va a descubrir junto al planeta entero el contenido del texto. Sin levantar la cabeza, lee:
+
+Levanta la vista. Descubre con la misma sorpresa que quienes lo están mirando lo que acaba de pasar. Intenta decir que no contestará preguntas técnicas pero ya es tarde para cualquier cosa. La sala está revuelta y todos los brazos de los corresponsales en alto. Uno de ellos repite en alemán la pregunta que el funcionario no ha respondido: ¿cuándo entra en vigor? Günter Schabowski, nervioso, vuelve a revisar el texto buscando una respuesta y, sin éxito, decide responder.
+
+Hasta donde sé — dice — será efectivo de inmediato, sin demoras. El murmullo se convierte en un revuelo. Otro corresponsal le pregunta si la medida alcanza a Berlín Oeste. Schabowski, derrumbado sobre su silla, balbucea una respuesta hasta que dice que sí. Los corresponsales comparan sus notas, buscan en la mirada de sus colegas si está sucediendo lo que parece que está sucediendo. El funcionario hace un último intento, desesperado, por regresar al genio dentro de la lámpara.
+
+Pero es tarde. Los periodistas corren a la puerta pero ya no para decidir dónde cenarán esa noche sino para transmitir, lo antes posible, la noticia al mundo. Schabowski contesta algunas generalidades más y se dirige hacia la salida. Un periodista de una emisora de Berlín Oeste lo intercepta antes de llegar y le pregunta si no teme una salida masiva hacia Occidente.
+
+Pero no son. Hay un periodista norteamericano en la sala. Se llama Tom Brokaw y es el presentador del noticiero más importante de la NBC. Tuvo un golpe de suerte: tiene agendada una entrevista luego de la conferencia de prensa con el hombre del momento, Gunter Schabowski. Este, que sabe que no tiene vuelta atrás, concede la entrevista y confirma todo lo que ha dicho hasta entonces. Que los ciudadanos de la RDA pueden salir por el puesto de control de su elección sin necesidad de pasar por un tercer país.
+
+Responde Schabowski revisando — con toda la dedicación que obvió en la previa — el texto que había recibido. No va a pasar mucho tiempo hasta que miles de alemanes se dirijan hacia el Muro para hacer efectiva la medida que Schabowski acababa de hacer pública.
+
+El resto es historia.
+
+## Otras historias:
+
+<hr />
+
+[URL original](https://cenital.com/hasta-donde-se-sera-efectivo-de-inmediato-dijo-y-derribo-el-muro/)

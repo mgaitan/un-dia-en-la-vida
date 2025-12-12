@@ -1,17 +1,3 @@
-# editors
-.idea/
-.vscode/
-
-# python
-*.py[cod]
-.venv/
-
 _build/
-uv.lock
-
-# cache
-.cache/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
+*.pyc
 __pycache__/

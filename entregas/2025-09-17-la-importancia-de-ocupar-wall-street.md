@@ -1,0 +1,57 @@
+# La importancia de ocupar Wall Street
+
+*Una revista canadiense convoca a una movilización para ocupar el centro financiero de Estados Unidos. Y la ocupación permanece.*
+
+**Publicado el 17 de Septiembre de 2025**
+
+![Portada](https://cenital.com/wp-content/uploads/2025/09/GettyImages-587963152.jpg)
+
+El 17 de septiembre de 2011 un grupo de activistas ocupó el Zuccotti Park, en Wall Street, Nueva York.
+
+Pocos años antes, el país había sufrido una crisis inmobiliaria que derivó en una crisis financiera internacional. La explosión tenía responsables concretos: una burbuja de créditos inmobiliarios creada por la necesidad de incrementar las ganancias corporativas. Finalmente, bajo la doctrina de que eran “demasiado grandes para caer”, el Estado salió al rescate de los bancos. En el camino, cerca de ocho millones de personas perdieron sus hogares en Estados Unidos y otros nueve millones sus empleos, según el libro Destructores de hogares , de Aaron Glantz. Los responsables están allí nombrados (Jamie Dimon, Steve Mnuchin, Wilbur Ross, Tom Barracks, Steve Schwarzman, son algunos de los directivos de grandes bancos, financieras y aseguradoras nombradas). Ninguno de ellos perdió su trabajo, ni su salario, ni debió dar explicación alguna ante el Poder Judicial norteamericano por lo que habían hecho.
+
+Dos años después, nada había cambiado. La flamante presidencia de Barack Obama, con el eje del cambio como bandera, tampoco significó una transformación en ese sentido. Pero algo más profundo se rompió cuando la desigualdad intrínseca del sistema quedó, acaso, demasiado expuesta. Los pobres y las clases medias habían transferido recursos a los eternos ganadores del sistema que lo llevaron al límite de la explosión. El dogma de que cada persona buscando su propio interés contribuía al progreso general de la economía se había demostrado abiertamente falso. El dogma de una carrera entre iguales que compiten a la cuenta de su propio éxito o fracaso, también.
+
+La propuesta comenzó en la revista [Adbusters](https://www.adbusters.org/) , del grupo de militantes canadienses Adbusters Media Foundation, que lanzó la convocatoria. Dos diseñadores de la revista, que se dedicaban a hacer parodias de afiches comerciales para el sitio, lanzaron la convocatoria que rápidamente se distribuyó entre su correo de lectores. El 17 de septiembre había que marchar hacia Wall Street contra la codicia de las grandes empresas. Aún sin saberlo, la convocatoria había enmarcado el sentido de la protesta. El llamado era a ocupar Wall Street. Y las palabras hacen cosas. En este caso, historia.
+
+![](https://cenital.com/wp-content/uploads/2025/09/image-30.png)
+
+Un grupo de cerca de 60 militantes de otras causas respondieron al llamado. El 2 de agosto se reunieron en Bowling Green, el lugar donde está emplazado el famoso toro de Wall Street, para organizar la movilización. Era un grupo variopinto –cuenta el texto Is democracy still in the streets? , de James Miller– con personas de diversos orígenes políticos. Había estudiantes universitarios y organizadores sindicales. También anarquistas y socialistas pero además un número sorprendente de conservadores y libertarios comprometidos con la idea de la “resistencia sin líderes”.
+
+Había entre ellos un profesor de antropología, David Graeber, un militante de muchos años con una propuesta novedosa. Junto al colectivo artístico 16 Beaver impulsaban hacer algo distinto a la típica marcha de siempre con las consignas de siempre. Habían sido convocados por la idea de ocupar Wall Street y así debían hacerlo. Formaron un círculo, se sentaron y comenzaron a debatir cómo podrían organizar mejor el evento del 17 de septiembre. No sabían que esa simple acción iba a provocar tanto. Llegaron entonces a una conclusión. Querían proponer para el 17 de septiembre una de las formas más radicales de la democracia: una asamblea general en la que todas las decisiones se tomarían por votación, por consenso total, luego de escuchar a todo el que tuviera algo para decir.
+
+Así llegó el 17 de septiembre. Aunque había personas organizando no había un organizador. Lo que pensaban hacer y cómo iban a hacerlo era algo que no estaba previamente decidido. ¿Cuál era la consigna? ¿Cuáles eran sus demandas? Había una y muchas. Graeber había dicho algo en la reunión preparatoria de agosto: somos el 99%. El 1% de la población más rica del país acumulaba el 40% de la riqueza y eso se traducía, por ejemplo, en poder político que le permitía diseñar un juego en el que nunca perdían. Las demandas iban desde un aumento en los impuestos a los más ricos, a las corporaciones, el fin de los beneficios fiscales a las empresas hasta el apoyo a políticas de protección social como el Medicare o los seguros sociales.
+
+Era una protesta contra el rescate a los bancos en vez de a los hipotecados que perdieron sus hogares. Era una protesta contra el fallo de la Corte Suprema llamado Citizens United, de un año antes, que le reconocía a las empresas y corporaciones el “derecho a la libertad de expresión” como si fueran personas; lo que, en la realidad, se tradujo en la desregulación total de los aportes de las corporaciones a las campañas políticas. Para otros, era simplemente una protesta para abrir temas y hacer entrar en la conversación pública lo que no estaba.
+
+Para Noam Chomsky, en el libro Ocupar Wall Street , era “la primera gran respuesta pública a los aproximadamente treinta años de una lucha de clases particularmente encarnizada y que ha provocado unos acuerdos sociales, económicos y políticos en los que la democracia ha quedado triturada”.
+
+Pero más importante que las demandas fue la dinámica. Cerca de mil personas daban vueltas por Wall Street ese día, seguidos de cerca por la policía, hasta llegar al Zuccotti Park, donde se reunieron finalmente. Aquello de ocupar se convertiría en el mecanismo central de la cuestión. La elección del lugar fue un acierto. El parque no era público y la policía sólo hubiera podido desalojarlos frente al requerimiento de los dueños del parque. Eso permitió ganar unas horas cruciales para esta historia.
+
+Entonces comenzó la asamblea y la idea de ocupar se estableció casi por accidente. Algunos habían ido preparados para establecer un campamento que durara algunos días. Desplegaron bolsas de dormir y carpas, sabiendo que tarde o temprano los desalojarían. Pero la extraordinaria repercusión popular del movimiento tanto los sobrepasó como les permitió sostenerlo durante dos meses. La asamblea duró unas horas en las que se discutió colectivamente los pasos a seguir. “Si quieres ver cómo luce la verdadera democracia, deberías estar aquí”, convocaron los ocupantes a quienes todavía no se habían acercado. El lugar se convirtió en el punto de encuentro para militantes, artistas y curiosos que se acercaron a conocer la experiencia.
+
+![](https://cenital.com/wp-content/uploads/2025/09/Day_14_Occupy_Wall_Street_September_30_2011_Shankbone_47-1000x695.jpg)
+
+Fueron dos meses intensos cuya principal virtud fue la expansión. Occupy se convirtió en la inspiración para que miles de personas, alrededor del mundo, llevaran adelante sus propias acciones. Hubo movimiento Occupy en Londres, en Lisboa, en Atenas, en Sidney, en Tokio y en otros países. Acciones concretas, en el territorio y con el cuerpo que iban desde campamentos en plazas de los distritos financieros hasta ocupaciones de bancos.
+
+Es cierto, la experiencia encontró sus propios límites. La regla principal era la horizontalidad absoluta. La asamblea funcionaba para tomar cualquier decisión y requerían el consenso de todos sus participantes. Alcanzaba una persona para bloquear una propuesta. El impulso inicial, con el correr de los días, fue naturalmente perdiéndose y quienes tenían más tiempo para participar tenían más influencia, en un sistema diseñado para que el tiempo falte. La diversidad de demandas y la falta de un liderazgo también hizo difícil alcanzar los objetivos.
+
+La narrativa de la disolución por su propia incapacidad de articular algo más amplio, también, elude que a la primera reacción tolerante con el acampe vino un segundo momento que terminó con el desalojo la noche del 15 de noviembre de ese mismo año, que incluyó el arresto a activistas y periodistas que cubrían el acampe. De allí en adelante, se produjo el arresto de más de 7.000 personas de 116 ciudades norteamericanas mientras participaban en actos vinculados al movimiento Occupy.
+
+La falta de un campamento permanente se hizo sentir. Los manifestantes modificaron la dinámica hacia ocupaciones relámpago de bancos, sedes corporativas y campus universitarios que parecían “ocurrir en el vacío, dejando pocas huellas”. Pero, en el camino, algo habían conseguido.
+
+Luego de muchos años volvía a hablarse de la desigualdad no como un resultado natural sino como un hecho social y político. El 1% más rico existía como problema. En enero de 2012, el Pew Research Center mostró que dos tercios de la población norteamericana creía que existían conflictos fuertes o muy fuertes entre ricos y pobres, un aumento de casi 20 puntos respecto de 2009.
+
+![](https://cenital.com/wp-content/uploads/2025/09/We_Are_The_99-1000x667.jpg)
+
+Las manifestaciones, las ocupaciones, no iban “contra los gobiernos” sino contra los verdaderos ganadores del sistema. Las entidades financieras, las aseguradoras, los bancos. Su representación simbólica: Wall Street. Y, fundamentalmente, habían producido una innovación militante en el centro del poder económico mundial. Ocupar tenía un sentido metafórico (ocupar las mentes, ocupar la imaginación) y otro concreto en la ocupación física de espacios. Un retorno, dice Michael Greenberg en el texto On the meaning of occupation , a la interacción humana básica. Encontrarse en un lugar para crear algo nuevo.
+
+Ese año, cuenta allí, el término “Occupy” se convirtió en la palabra del año según la American Dialect Society. No es tan importante eso como la palabra a la que reemplazó: FOMO (“fear of missing out”, miedo a quedarse afuera), un término que por entonces describía la necesidad de seguir obsesivamente las últimas noticias en Twitter, Facebook y otras redes sociales. De alguna manera, sigue el texto, eran dos palabras opuestas. La ocupación era lo contrario a la virtualidad. Necesitaba el cara a cara y ofrecía una suerte de remedio a la mirada vacía en la pantalla. Era el principal atractivo de quienes pasaron por Zuccotti Park, y otras ocupaciones, en esos días.
+
+“Un comunalismo áspero, una fisicalidad primitiva, la experiencia espontánea y en vivo que ofrecían”. No iban a ser parte de una performance, ni a escuchar a alguien que les hablara. Iban a ser ellos mismos los que hablaran. “Nosotros somos aquellos a quienes estábamos esperando”, escribió por entonces la poeta June Jordan.
+
+Uno de los manifestantes que acampaba en Wall Street, en un testimonio de los días posteriores, citó un pasaje de Juan en el Nuevo Testamento para explicar lo que estaban haciendo: “Él se hizo hombre y habitó entre nosotros”. La traducción literaria de ese habitó , decía, se acercaba más a la noción de acampar. “Acampó entre nosotros”, dijo entonces el manifestante, señalando las carpas del Zuccotti Park.
+
+<hr />
+
+[URL original](https://cenital.com/la-importancia-de-ocupar-wall-street/)

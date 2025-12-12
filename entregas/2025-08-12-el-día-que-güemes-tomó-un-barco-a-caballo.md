@@ -1,0 +1,47 @@
+# El día que Güemes tomó un barco a caballo
+
+*Las primeras invasiones inglesas terminaron con el rechazo del invasor. Pero un hecho histórico está a punto de ocurrir: la toma de un buque de guerra.*
+
+**Publicado el 12 de Agosto de 2025**
+
+![Portada](https://cenital.com/wp-content/uploads/2025/08/torre_retiro_1500x610.jpg)
+
+El 12 de agosto de 1806 un grupo de jinetes al mando de Martín Miguel de Güemes tomó un barco inglés en la costa de Buenos Aires. No hay ningún juego de palabras ni sorpresa oculta. Un grupo de combatientes, montados en sus caballos, llegaron hasta la fragata inglesa Justina y la tomaron. Fue la primera vez en la historia bélica moderna que algo así sucedió.
+
+El joven Martín Miguel de Güemes ingresa a la carrera militar a sus breves catorce años, como cadete, en el Regimiento Fijo de Buenos Aires que está radicado en Salta. Recibe durante seis años instrucción militar, lo que lo obliga a recorrer la provincia montado a su caballo. A sus veinte años, recibe una orden del virrey Rafael de Sobremonte. Debe viajar a Buenos Aires a recibir la instrucción correspondiente a la “clase decente”, dice la biografía de Güemes que escribe Lucía Gálvez.
+
+En octubre de 1805 partió rumbo a Buenos Aires con una tarea extra. Debía acompañar a unos músicos salteños que se incorporarían al regimiento de la Capital. Estaban a su cargo. Tenía que conseguirles instrucción para incorporarse a la milicia y los instrumentos que les faltaban para ser parte de la banda. A fines de diciembre, previo paso por Córdoba, Güemes ya estaba instalado en Buenos Aires, a cargo de controlar el contrabando en el puerto de Tigre.
+
+La primera invasión inglesa tomó a muchos por sorpresa pero especialmente al virrey Sobremonte. Los ingleses desembarcaron frente a Quilmes. Un ejército de no más de 1.600 soldados conquistó Buenos Aires, una ciudad de 40.000 habitantes. El primer intento de las milicias criollas por defender la ciudad fracasa, abandonado a su suerte por el propio virrey que debía comandarlos. Los invasores entraron a Buenos Aires bajo la música de gaitas escocesas. El 2 de julio, Beresford firmó la rendición del ejército local. “Confieso –escribirá luego Manuel Belgrano en sus memorias–, que me indigné. Todavía fue mayor mi incomodidad cuando ví entrar las tropas enemigas y su despreciable número para una población como la de Buenos Aires: esta idea no se apartó de mi imaginación y poco faltó para que me hubiese hecho perder la cabeza: me era muy doloroso ver a mi patria bajo otra dominación y sobre todo en tal estado de degradación, que hubiese sido subyugada”.
+
+Juan Martín de Pueyrredón, de quien Güemes se había hecho amigo, comenzó a organizar la guerra contra el ejército invasor. El salteño participa de los primeros combates contra la invasión. Bajo las órdenes del teniente coronel Juan Antonio Olondriz se apuesta en el Puente de Gálvez (actual Puente Pueyrredón) con dos cañones que utilizan hasta que se agotan las municiones y deben replegarse. Pero, a principios de agosto, parte rumbo a Córdoba con otra misión. Debía devolver a Salta a los músicos que había traído en su viaje original.
+
+Llegando a la provincia, en La Posta de las Candelarias, se encuentra al virrey Sobremonte, que todavía es su comandante en jefe. Este le da una contraorden. Debe regresar a Buenos Aires con un mensaje que el virrey quiere enviarle a Santiago de Liniers, al mando de un ejército que había partido hacia Buenos Aires para iniciar la Reconquista. La fama de Güemes como jinete lo antecede, por eso Sobremonte le pide que vaya “a mata caballo”, es decir, sin frenar en las postas. El jinete cumplió el cometido y en dos días recorrió las 79 leguas (381 kilómetros) que lo separaban de Buenos Aires. El mensaje llega a Liniers. Le pide a Sobremonte que no se arriesgue a combatir sin tener asegurado el éxito, que mejor esperase una operación combinada. Liniers lo desestima. Pero incorpora al joven Güemes como su ayudante personal para lo que queda de batalla.
+
+![](https://cenital.com/wp-content/uploads/2025/08/Fuerte_de_Buenos_Aires_rivera_norte.jpg)
+
+Llegamos así al 12 de agosto. Las tropas de Beresford han sido arrinconadas en el [Fuerte de la Ciudad](https://es.wikipedia.org/wiki/Fuerte_de_Buenos_Aires?utm_source=chatgpt.com) (actualmente parte del Museo de la Casa Rosada) y próximas a ser derrotadas. El comandante inglés firma allí otro documento: la rendición. Salen del Fuerte, con sus banderas desplegadas, entre dos filas de tropas españolas y criollos, que han combatido juntos. Los ingleses abandonan sus armas a los pies de Liniers. La noche anterior, sus hombres habían tomado los cuarteles de Retiro y, desde allí, se habían desplazado por casas y techos hasta la Plaza Mayor (hoy Plaza de Mayo) para la batalla final. Había desatado, escribe Gálvez, “una apoteosis popular imposible de frenar”.
+
+Comienza a caer la tarde. La invasión ha finalizado. Desde la barranca de Retiro, un grupo de oficiales observa a la fragata inglesa Justina. Es un barco mercante rearmado por los ingleses con 26 cañones y cien marineros de escuadra. Ha tenido la mala fortuna de quedar encallado en las costas de Buenos Aires por el retiro de la marea en el Río de la Plata, a unos 400 metros de la Plaza de Toros de Retiro. Entre los oficiales que observan el barco está Güemes, recién llegado de su travesía a Córdoba ida y vuelta. Pastor Obligado escribe en 1920 un recuento de esta historia en el diario La Razón, que Luis Güemes luego certifica con algunos otros documentos en el libro Güemes documentado .
+
+Liniers está mirando al horizonte con su catalejo y descubre que el palo mayor del Justina está roto, fruto del bombardeo que él mismo le propinó el día anterior. Le pasa el catalejo y una orden a su ayudante, el joven salteño.
+
+–Usted que anda siempre bien montado, galope por la orilla de la Alameda que ha de encontrar a Pueyrredón y comuníquese orden de avanzar soldados de caballería por la playa.
+
+Otra vez, el jinete cumple la orden y avanza por la playa hacia los hombres de Pueyrredón con quienes enfilan hacia el buque. Este recibe la orden y pone bajo el mando de Güemes unos cincuenta gauchos a caballo armados con lanzas, boleadoras, sables y algunas tercerolas salen galopando con destino: el Río de la Plata. “Al galope tendido –describe Pastor la escena– con el agua al encuentro de sus caballos rompían el fuego las tercerolas, cuando asomó el jefe inglés, haciendo señas con un pañuelo blanco desde el alcázar de popa, rindiéndose”. No alcanzaron a combatir cuerpo a cuerpo pero cumplieron un objetivo militar inédito para la historia militar del mundo. Habían tomado, a caballo, un barco.
+
+La tropa acuática no solo tomó prisioneros sino también la bandera del Justina como trofeo de guerra. No había sido la única. Durante la Reconquista, el ejército criollo y de españoles tomó del ejército inglés cerca de ocho banderines y banderas, entre las que se encontraban las famosas del batallón 1° y 2° del famoso Regimiento 71° de Highlanders. La bandera del Justina tenía varias particularidades. Era enorme: tenía casi cuatro metros, porque era una bandera de mar. Pero además había ondeado en el asta de Retiro que los ingleses convirtieron en depósito de pertrechos. El parte de Liniers sobre la Reconquista no la menciona. Es que al momento de la rendición de Beresford, la bandera había sido retirada del asta de Retiro y devuelta a su lugar de origen, el buque Justina. De ahí la habían quitado las tropas inglesas para señalizar el lugar donde guardaban sus municiones y evitar así que sus propios barcos atacaran el sitio. El día anterior a la rendición, previendo que serían derrotados, la devolvieron al barco. Nunca hubieran esperado que un asalto a caballo la volviera a poner en disputa.
+
+Unos pocos días después de la rendición, Liniers tomó las cuatro banderas inglesas y las llevó a la Iglesia de Santo Domingo (en Defensa y avenida Belgrano, en Buenos Aires). Había prometido que, si lograba recuperar la ciudad, le daría a la Virgen de Rosario allí presente la protección de las banderas que capturara del enemigo. El ejército inglés, durante la ocupación de Buenos Aires, había prohibido la ceremonia del culto al Santísimo Sacramento. Un año después, durante el segundo intento inglés por tomar Buenos Aires, las tropas llegaron hasta el convento para intentar recuperar las que habían sido sus banderas pero tampoco lo consiguieron. Juan Bautista Alberdi da fe de que son esas las banderas en el libro Proceso a Mitre : “Güemes, bajo las órdenes de Liniers, pelea en las jornadas de 1806 y 1807 en Buenos Aires contra los ingleses y contribuye a arrancar las banderas que decoran hoy los templos de la orgullosa Buenos Aires”. Las insignias siguen estando ahí, al día de hoy, como testimonio de aquella gesta.
+
+Si, en cambio, uno quisiera ir a observar la parte del río en la que, por única vez en la historia mundial, tropas de caballería tomaron un barco, no lo encontraría. Porque esas aguas ya no son más aguas. El espacio ha sido ganado al río por la tierra.
+
+Por suerte el lugar es fácil de reconocer. Hay emplazada allí una enorme torre que, ironías de la historia, es conocida como la Torre de los ingleses.
+
+![](https://cenital.com/wp-content/uploads/2025/08/image-7.jpg)
+
+## Algo más:
+
+<hr />
+
+[URL original](https://cenital.com/el-dia-que-guemes-tomo-un-barco-a-caballo/)
