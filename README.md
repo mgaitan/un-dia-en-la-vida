@@ -2,7 +2,7 @@
 
 > Una efeméride, seleccionada arbitrariamente por mí, como excusa para hablar de un tema.
 
-**Un día en la vída** es un newsletter de [cenital.com](https://cenital.com/secciones/newsletters/un-dia-en-la-vida/).
+**Un día en la vída** es un [newsletter de cenital.com](https://cenital.com/secciones/newsletters/un-dia-en-la-vida/).
 
 ## Sobre el autor
 

@@ -14,9 +14,6 @@ jobs:
   publish:
     name: Publish book to GitHub Pages and Attach EPUB to release
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v7
@@ -24,10 +21,12 @@ jobs:
       - name: Build EPUB (no -W)
         run: uvx --from=sphinx --with myst-parser sphinx-build . _build/epub -b epub
       - uses: actions/upload-pages-artifact@v4
+        if: github.event_name != 'release'
         with:
           path: _build/html
       - id: deployment
         uses: actions/deploy-pages@v4
+        if: github.event_name != 'release'
       - name: Attach EPUB to release
         if: github.event_name == 'release'
         uses: softprops/action-gh-release@v2
