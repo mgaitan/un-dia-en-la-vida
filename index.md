@@ -14,6 +14,10 @@ Tomás Aguerre es politólogo de la Universidad de Buenos Aires (UBA). Nació en
 
 Cenital es un medio de comunicación digital lanzado el 7 de junio de 2019 por un grupo de jóvenes periodistas que compartimos la necesidad de producir información de calidad que permita comprender el mundo actual. Nos propusimos contar de manera sencilla y accesible una realidad compleja y cada vez más confusa. Por eso nos bajamos de la competencia por llegar primero a la noticia. Preferimos desarrollar los temas con profundidad, análisis y contexto. Elegimos para eso los [newsletters](https://cenital.com/newsletters/) como base de la estrategia para llegar a nuestros lectores, pero también producimos [especiales](https://cenital.com/secciones/especiales/) en nuestro sitio, podcast y en 2024 sumamos nuestro [canal de YouTube](https://www.youtube.com/@Cenitalcom).
 
+<p align="center">
+  <img src="https://cenital.com/wp-content/uploads/2023/06/cenital-logo-light-theme.svg" alt="Cenital" width="300" />
+</p>
+
 ```{toctree}
 :maxdepth: 2
 :caption: Documentation
